@@ -738,7 +738,7 @@
   .bx-book-bookmark:before {
     content: "\e947";
   }
-  .bx-book-content:before {
+  .bx-book:before {
     content: "\e948";
   }
   .bx-book-heart:before {
@@ -768,7 +768,7 @@
   .bx-bookmarks:before {
     content: "\e951";
   }
-  .bx-book-open:before {
+  .bx-book:before {
     content: "\e952";
   }
   .bx-book-reader:before {
@@ -1458,7 +1458,7 @@
   .bx-file:before {
     content: "\ea37";
   }
-  .bx-file-blank:before {
+  .bx-book:before {
     content: "\ea38";
   }
   .bx-file-find:before {
